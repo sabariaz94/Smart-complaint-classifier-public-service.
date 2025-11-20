@@ -1,0 +1,35 @@
+[
+    {
+        "id": "b7184122-8633-45ef-9b01-7378702f0152",
+        "timestamp": "2025-11-21T01:40:51.261481",
+        "complaint_text": "water",
+        "category": "Water",
+        "priority": "Medium",
+        "summary": "A user reported an issue related to water.",
+        "keywords": [
+            "water"
+        ],
+        "confidence": 0.95,
+        "status": "Closed",
+        "notes": [
+            {
+                "timestamp": "2025-11-21T02:07:31.863889",
+                "note": "done"
+            }
+        ]
+    },
+    {
+        "id": "bdee990e-0705-4855-86c2-38aec15c2d2d",
+        "timestamp": "2025-11-21T02:06:34.335718",
+        "status": "New",
+        "notes": [],
+        "category": "Water",
+        "priority": "Medium",
+        "summary": "An unspecified issue has been reported regarding water services.",
+        "keywords": [
+            "water"
+        ],
+        "confidence": 1.0,
+        "complaint_text": "water"
+    }
+]
